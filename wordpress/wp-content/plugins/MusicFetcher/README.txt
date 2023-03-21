@@ -1,0 +1,1 @@
+Questo plugin ti permette di spawnare i primi 3 link spotify nel db
